@@ -4200,6 +4200,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"expo-location@npm:~15.1.1":
+  version: 15.1.1
+  resolution: "expo-location@npm:15.1.1"
+  peerDependencies:
+    expo: "*"
+  checksum: 96bf55821fbee5176d44fe81214923545d914860e7f769ee1380bdb5eeef0c98346bbcb759c29cba99488b3367498f57e3b750ad42cc1a5ae270640b7331d148
+  languageName: node
+  linkType: hard
+
 "expo-modules-autolinking@npm:1.1.2":
   version: 1.1.2
   resolution: "expo-modules-autolinking@npm:1.1.2"
@@ -6872,6 +6881,7 @@ __metadata:
   dependencies:
     "@babel/core": ^7.20.0
     expo: ~48.0.6
+    expo-location: ~15.1.1
     expo-status-bar: ~1.4.4
     react: 18.2.0
     react-native: 0.71.3
